@@ -3,5 +3,9 @@ RENCANA KONTEN MUSHAP
   * Pengenalan Fitur ChatGPT untuk vibe coding
   * tools yang perlu diinstall
 - Vibe Coding dengan Claude
+    * Pemahaman Fitur fitur claude untuk vibecoding
+    * Pamahaman Prompt Framework untuk vibecoding
 - Vibe Coding dengan antigravity
-- Pemahaman Fundamental Vibecoding
+    * Pemahaman Fitur fitur Antigrafity untuk vibecoding
+    * * Pamahaman Prompt Framework untuk vibecoding
+  - Pemahaman Fundamental Vibecoding
