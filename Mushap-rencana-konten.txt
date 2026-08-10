@@ -4,3 +4,4 @@ RENCANA KONTEN MUSHAP
   * tools yang perlu diinstall
 - Vibe Coding dengan Claude
 - Vibe Coding dengan antigravity
+- Pemahaman Fundamental Vibecoding
