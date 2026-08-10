@@ -1,0 +1,6 @@
+RENCANA KONTEN MUSHAP
+- Vibe coding dengan ChatGPT
+  * Pengenalan Fitur ChatGPT untuk vibe coding
+  * tools yang perlu diinstall
+- Vibe Coding dengan Claude
+- Vibe Coding dengan antigravity
